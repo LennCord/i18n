@@ -24,5 +24,17 @@
         "filter_username_error" => "Please enter an username.",
         "filter_password_error" => "Please enter a password.",
         "filter_repeat_password_error" => "Please repeat the password.",
+        "already_in_use_email" => "This email is already in use!"
+    );
+    $navbarLangArray = array(
+        "navbar-login" => "Login",
+        "navbar-register" => "Register",
+        "navbar-features" => "Features",
+        "navbar-home" => "Home",
+        "navbar-guilds" => "Guilds",
+        "navbar-account-settings" => "Account Settings",
+        "navbar-guild-settings" => "Guild settings",
+        "navbar-friends" => "Friends",
+        "navbar-account-settings-connections" => "Connections"
     )
 ?>
